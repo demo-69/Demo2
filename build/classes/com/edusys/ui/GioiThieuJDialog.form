@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JDialogFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel1" alignment="0" max="32767" attributes="0"/>
+                  <Component id="jScrollPane1" alignment="0" pref="528" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" pref="139" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="71" max="-2" attributes="0"/>
+              <Component id="jScrollPane1" min="-2" pref="174" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel1"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="&#x1ee8;ng d&#x1ee5;ng c&#xe1;c ph&#x1ea7;n m&#x1ec1;m qu&#x1ea3;n l&#xfd; v&#xe0;o c&#xe1;c l&#x129;nh v&#x1ef1;c gi&#xfa;p h&#x1ed7; tr&#x1ee3; c&#xf4;ng &#xa;vi&#x1ec7;c c&#xf3; &#x111;&#x1b0;&#x1ee3;c s&#x1ef1; hi&#x1ec7;u qu&#x1ea3;. V&#x1edb;i c&#xe1;c ph&#x1ea7;n m&#x1ec1;m qu&#x1ea3;n l&#xfd; h&#x1ecd;c sinh c&#x169;ng&#xa; v&#x1ead;y, s&#x1ef1; l&#x1ef1;a ch&#x1ecd;n th&#xed;ch h&#x1ee3;p s&#x1ebd; gi&#xfa;p cho c&#xf4;ng t&#xe1;c &#x111;&#xe0;o t&#x1ea1;o, gi&#x1ea3;ng &#xa;d&#x1ea1;y &#x111;&#x1b0;&#x1ee3;c t&#x1ed1;t h&#x1a1;n. Vi&#x1ec7;c ki&#x1ec3;m so&#xe1;t v&#xe0; qu&#x1ea3;n l&#xfd; t&#x1ed1;t t&#x1eeb;ng h&#x1ecd;c sinh &#xa;gi&#xfa;p cho c&#xf4;ng vi&#x1ec7;c c&#x1ee7;a t&#x1eeb;ng gi&#xe1;o vi&#xea;n &#x111;&#x1b0;&#x1ee3;c di&#x1ec5;n ra m&#x1ed9;t c&#xe1;ch su&#xf4;n&#xa; s&#x1ebb;. C&#xf9;ng &#x111;i t&#xec;m hi&#x1ec3;u top 7 ph&#x1ea7;n m&#x1ec1;m qu&#x1ea3;n l&#xfd; l&#x1edb;p h&#x1ecd;c t&#x1ed1;t nh&#x1ea5;t, &#xa;c&#xf3; kh&#x1ea3; n&#x103;ng h&#x1ed7; tr&#x1ee3; gi&#x1ea3;ng d&#x1ea1;y hi&#x1ec7;u qu&#x1ea3; h&#x1a1;n &#x111;&#x1ec3; &#x111;&#x1b0;a ra &#x111;&#x1b0;&#x1ee3;c s&#x1ef1; l&#x1ef1;a&#xa; ch&#x1ecd;n ph&#xf9; h&#x1ee3;p nh&#x1ea5;t."/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
